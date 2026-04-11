@@ -1,0 +1,4 @@
+Timestamp,LSL_Time,Trigger,Event_Name
+2026-04-11 15:27:28.263167,2459.109504,1,standing_start
+2026-04-11 15:27:29.264228,2460.110571,2,standing_end
+2026-04-11 15:27:29.265406,2460.111769,3,walking_start
